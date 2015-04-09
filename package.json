@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.cryto.net:projects/joepie91/node-ia-headers"
+    "url": "git://github.com/joepie91/node-ia-headers"
   },
   "keywords": [
     "internet",
